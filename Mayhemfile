@@ -1,0 +1,5 @@
+project: rnshah9/mayhem-sundown
+target: sundown
+
+cmds:
+  - cmd: /repo/sundown @@
