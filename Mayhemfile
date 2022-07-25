@@ -2,4 +2,4 @@ project: sundown
 target: sundown
 
 cmds:
-  - cmd: /repo/sundown @@
+  - cmd: /sundown @@
