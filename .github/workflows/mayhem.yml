@@ -59,7 +59,8 @@ jobs:
       fail-fast: false
       matrix:
         mayhemfile:
-          - mayhem/Mayhemfile
+          - mayhem/Mayhemfile_sdhtml_is_tag
+          - mayhem/Mayhemfile_sundown
 
     steps:
       - uses: actions/checkout@v3

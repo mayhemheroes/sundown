@@ -1,0 +1,6 @@
+project: sundown
+target: sdhtml-is-tag
+
+cmds:
+  - cmd: /fuzz_sdhtml_is_tag
+    libfuzzer: true
